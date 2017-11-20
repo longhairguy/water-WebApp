@@ -1,6 +1,5 @@
 # waterGraph -----> v1.0
-=======
-=======
+MEAN Stack 
 # waterGraph
 Graphical representation of water consumption of a building
 
